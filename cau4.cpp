@@ -44,7 +44,7 @@ int main()
                 q.push(q.front() * 10 + i);
             }
         }
-        cout << "Output: "<<  q.front() << " ";
+        cout <<  q.front() << " ";
         q.pop();
     }
 }
