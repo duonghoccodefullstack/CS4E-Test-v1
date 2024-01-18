@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+using namespace std;
 int Tinh_tonguoc (int n) {
 	
 	int sum = 0;
